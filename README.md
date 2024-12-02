@@ -2,6 +2,8 @@
 
 [Link dos videos](https://drive.google.com/drive/folders/1yGeWDFvfBI6DDa8TNdTNTgEGblN8AivP?usp=sharing)
 
+*Github não deixa fazer o upload dos vídeos pois são muito grandes. Estão disponibilizados no link acima*
+
 Este notebook demonstra como processar vídeos usando a biblioteca `moviepy` em Python. O exercício envolve clipes de vídeo, inversão de eixos e ajuste de volume.
 
 ## Índice
